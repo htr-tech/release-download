@@ -5,7 +5,7 @@
 <a href="#"><img title="Zphisher" src="https://i.ibb.co/30wtdZ7/download.png"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -36,13 +36,14 @@ apt update ; apt install git curl php openssh -y ; git clone git://github.com/ht
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > [TheLinuxChoice](https://github.com/thelinuxchoice)
-#### > [DarksecDevelopers](https://github.com/DarksecDevelopers)
-#### > [UndeadSec](https://github.com/UndeadSec)
+#### > TheLinuxChoice (https://github.com/thelinuxchoice)
+#### > DarksecDevelopers (https://github.com/DarksecDevelopers)
+#### > UndeadSec (https://github.com/UndeadSec)
 
 ## Tunelling Options :
-#### > [NGROK](https://ngrok.com)
-#### > [SERVEO](https://serveo.net)
-#### > [LOCALHOSTRUN](https://localhost.run)
+#### > Localhost (127.0.0.1)
+#### > NGROK (https://ngrok.com)
+#### > SERVEO (https://serveo.net)
+#### > LOCALHOSTRUN (https://localhost.run)
 
 
